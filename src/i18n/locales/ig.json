@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Ụlọ",
+    "createJob": "Mepụta Ọrụ",
+    "resume": "Résumé",
+    "profile": "Profaịlụ"
+  },
+  "auth": {
+    "appName": "EduVerse Connect",
+    "email": "Íméèlụ",
+    "password": "Okwuntughe",
+    "fullName": "Aha zuru ezu",
+    "login": "Baa",
+    "loggingIn": "Na-aba…",
+    "unlockBiometric": "Mepee site na Ihu / Mkpịsị aka",
+    "noAccount": "Ọhụrụ ebe a? Mepụta akaụntụ",
+    "createAccountTitle": "Mepụta akaụntụ gị",
+    "iAmA": "Abụ m…",
+    "jobSeeker": "Onye Na-achọ Ọrụ",
+    "employer": "Onye Ọrụ",
+    "employerNote": "Akaụntụ ndị ọrụ chọrọ nkwenye site n'aka onye nchịkwa tupu ha enwe ike itinye ọrụ.",
+    "createAccount": "Mepụta akaụntụ",
+    "creating": "Na-emepụta…",
+    "haveAccount": "Ị nwerelarị akaụntụ? Baa"
+  },
+  "common": {
+    "save": "Chekwaa",
+    "saving": "Na-echekwa…",
+    "submit": "Zipu",
+    "submitting": "Na-ezipu…",
+    "cancel": "Kagbuo",
+    "loading": "Na-ebu…",
+    "logout": "Pụọ"
+  },
+  "profile": {
+    "role": "Ọrụ",
+    "language": "Asụsụ",
+    "editProfile": "Dezie Profaịlụ",
+    "fullName": "Aha zuru ezu",
+    "save": "Chekwaa mgbanwe",
+    "saved": "Emelitere profaịlụ",
+    "changePassword": "Gbanwee Okwuntughe",
+    "currentPassword": "Okwuntughe ugbu a",
+    "newPassword": "Okwuntughe ọhụrụ (opekata mpe mkpụrụedemede 8)",
+    "updatePassword": "Melite okwuntughe",
+    "employerVerified": "Onye ọrụ enyere ikike",
+    "employerPending": "Nkwenye na-echere",
+    "logoutAllDevices": "Pụọ na ngwaọrụ niile"
+  }
+}

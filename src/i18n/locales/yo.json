@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Ilé",
+    "createJob": "Ṣẹ̀dá Iṣẹ́",
+    "resume": "Résumé",
+    "profile": "Profaili"
+  },
+  "auth": {
+    "appName": "EduVerse Connect",
+    "email": "Ímeèlì",
+    "password": "Ọ̀rọ̀ìgbaniwọlé",
+    "fullName": "Orúkọ kíkun",
+    "login": "Wọlé",
+    "loggingIn": "Ń wọlé…",
+    "unlockBiometric": "Ṣí i pẹ̀lú Ìdámọ̀ Ojú / Ìka",
+    "noAccount": "Tuntun níbí? Ṣẹ̀dá àkántì",
+    "createAccountTitle": "Ṣẹ̀dá àkántì rẹ",
+    "iAmA": "Èmi ni…",
+    "jobSeeker": "Olùwá Iṣẹ́",
+    "employer": "Agbanisíṣẹ́",
+    "employerNote": "Àwọn àkántì agbanisíṣẹ́ nílò ìfọwọ́sí láti ọ̀dọ̀ alábojútó kí wọ́n tó lè fi iṣẹ́ sílẹ̀.",
+    "createAccount": "Ṣẹ̀dá àkántì",
+    "creating": "Ń ṣẹ̀dá…",
+    "haveAccount": "Ó ti ní àkántì? Wọlé"
+  },
+  "common": {
+    "save": "Fi pamọ́",
+    "saving": "Ń fi pamọ́…",
+    "submit": "Fi ránṣẹ́",
+    "submitting": "Ń fi ránṣẹ́…",
+    "cancel": "Fagilé",
+    "loading": "Ń kó...",
+    "logout": "Jáde"
+  },
+  "profile": {
+    "role": "Ipò",
+    "language": "Èdè",
+    "editProfile": "Ṣàtúnṣe Profaili",
+    "fullName": "Orúkọ kíkun",
+    "save": "Fi àwọn àyípadà pamọ́",
+    "saved": "A ti ṣàtúnṣe profaili",
+    "changePassword": "Yí Ọ̀rọ̀ìgbaniwọlé padà",
+    "currentPassword": "Ọ̀rọ̀ìgbaniwọlé lọ́wọ́lọ́wọ́",
+    "newPassword": "Ọ̀rọ̀ìgbaniwọlé tuntun (o kéré tán ààmì 8)",
+    "updatePassword": "Ṣàtúnṣe ọ̀rọ̀ìgbaniwọlé",
+    "employerVerified": "Agbanisíṣẹ́ tí a fọwọ́sí",
+    "employerPending": "Ìfọwọ́sí ń dúró",
+    "logoutAllDevices": "Jáde ní gbogbo ẹ̀rọ"
+  }
+}

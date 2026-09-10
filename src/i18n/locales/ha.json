@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Gida",
+    "createJob": "Ƙirƙiri Aiki",
+    "resume": "Takardar CV",
+    "profile": "Bayanin Kai"
+  },
+  "auth": {
+    "appName": "EduVerse Connect",
+    "email": "Imel",
+    "password": "Kalmar sirri",
+    "fullName": "Cikakken suna",
+    "login": "Shiga",
+    "loggingIn": "Ana shiga…",
+    "unlockBiometric": "Buɗe da Yatsan hannu / Fuska",
+    "noAccount": "Sabo ne? Ƙirƙiri asusu",
+    "createAccountTitle": "Ƙirƙiri asusunka",
+    "iAmA": "Ni…",
+    "jobSeeker": "Mai Neman Aiki",
+    "employer": "Mai Aiki",
+    "employerNote": "Asusun ma'aikata suna buƙatar tabbatarwa daga admin kafin a iya ɗora ayyuka.",
+    "createAccount": "Ƙirƙiri asusu",
+    "creating": "Ana ƙirƙirawa…",
+    "haveAccount": "Kana da asusu? Shiga"
+  },
+  "common": {
+    "save": "Ajiye",
+    "saving": "Ana ajiyewa…",
+    "submit": "Aika",
+    "submitting": "Ana aikawa…",
+    "cancel": "Soke",
+    "loading": "Ana loda…",
+    "logout": "Fita"
+  },
+  "profile": {
+    "role": "Matsayi",
+    "language": "Harshe",
+    "editProfile": "Gyara Bayani",
+    "fullName": "Cikakken suna",
+    "save": "Ajiye canje-canje",
+    "saved": "An sabunta bayani",
+    "changePassword": "Canza Kalmar Sirri",
+    "currentPassword": "Kalmar sirri ta yanzu",
+    "newPassword": "Sabuwar kalmar sirri (aƙalla haruffa 8)",
+    "updatePassword": "Sabunta kalmar sirri",
+    "employerVerified": "An tabbatar da ma'aikaci",
+    "employerPending": "Ana jiran tabbatarwa",
+    "logoutAllDevices": "Fita daga dukkan na'urori"
+  }
+}

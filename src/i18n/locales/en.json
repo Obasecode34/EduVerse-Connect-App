@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Home",
+    "createJob": "Create Job",
+    "resume": "Resume",
+    "profile": "Profile"
+  },
+  "auth": {
+    "appName": "EduVerse Connect",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full name",
+    "login": "Log in",
+    "loggingIn": "Logging in…",
+    "unlockBiometric": "Unlock with Face ID / Fingerprint",
+    "noAccount": "New here? Create an account",
+    "createAccountTitle": "Create your account",
+    "iAmA": "I am a…",
+    "jobSeeker": "Job Seeker",
+    "employer": "Employer",
+    "employerNote": "Employer accounts require admin verification before you can post jobs.",
+    "createAccount": "Create account",
+    "creating": "Creating…",
+    "haveAccount": "Already have an account? Log in"
+  },
+  "common": {
+    "save": "Save",
+    "saving": "Saving…",
+    "submit": "Submit",
+    "submitting": "Submitting…",
+    "cancel": "Cancel",
+    "loading": "Loading…",
+    "logout": "Log out"
+  },
+  "profile": {
+    "role": "Role",
+    "language": "Language",
+    "editProfile": "Edit Profile",
+    "fullName": "Full name",
+    "save": "Save changes",
+    "saved": "Profile updated",
+    "changePassword": "Change Password",
+    "currentPassword": "Current password",
+    "newPassword": "New password (min 8 characters)",
+    "updatePassword": "Update password",
+    "employerVerified": "Verified employer",
+    "employerPending": "Verification pending",
+    "logoutAllDevices": "Log out on all devices"
+  }
+}
