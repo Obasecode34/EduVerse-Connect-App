@@ -5,24 +5,64 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
     "plugins": [
       [
         "expo-local-authentication",
         {
           "faceIDPermission": "Allow EduVerse Connect to use Face ID to unlock your account."
         }
+      ],
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-8160598841675696~4138466184",
+          "iosAppId": "ca-app-pub-8160598841675696~7599947476"
+        }
+      ],
+      [
+        "expo-tracking-transparency",
+        {
+          "userTrackingPermission": "This identifier is used to show you more relevant ads."
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#111827",
+          "imageWidth": 200
+        }
       ]
     ],
     "ios": {
       "supportsTablet": true,
+      "bundleIdentifier": "com.obasecode.eduverseconnect",
       "infoPlist": {
         "NSFaceIDUsageDescription": "Used to unlock your account quickly and securely."
       }
     },
     "android": {
-      "permissions": ["USE_BIOMETRIC", "USE_FINGERPRINT"],
+      "package": "com.obasecode.eduverseconnect",
+      "permissions": [
+        "USE_BIOMETRIC",
+        "USE_FINGERPRINT",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "com.google.android.gms.permission.AD_ID"
+      ],
       "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#111827"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5693828d-07b4-48a4-bf93-44657452d899"
       }
     }
   }
