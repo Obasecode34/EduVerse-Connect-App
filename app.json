@@ -14,13 +14,6 @@
         }
       ],
       [
-        "react-native-google-mobile-ads",
-        {
-          "androidAppId": "ca-app-pub-8160598841675696~4138466184",
-          "iosAppId": "ca-app-pub-8160598841675696~7599947476"
-        }
-      ],
-      [
         "expo-tracking-transparency",
         {
           "userTrackingPermission": "This identifier is used to show you more relevant ads."
@@ -65,5 +58,9 @@
         "projectId": "5693828d-07b4-48a4-bf93-44657452d899"
       }
     }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-8160598841675696~4138466184",
+    "ios_app_id": "ca-app-pub-8160598841675696~7599947476"
   }
 }
