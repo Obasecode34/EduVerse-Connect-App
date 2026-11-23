@@ -27,7 +27,8 @@
           "backgroundColor": "#111827",
           "imageWidth": 200
         }
-      ]
+      ],
+      "expo-font"
     ],
     "ios": {
       "supportsTablet": true,
